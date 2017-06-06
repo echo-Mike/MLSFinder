@@ -1,0 +1,2 @@
+mfinder.exe -h
+pause
